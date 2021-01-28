@@ -6,4 +6,4 @@
 
 ## Modelo E/R
 
-![Modelo E/R](./modelo.PNG)
+![Modelo E/R](https://github.com/JDM-ULL-93/Practica3-ADBD-PaseoEnBarco/blob/main/modelo.PNG)
